@@ -1,0 +1,11 @@
+numpy>=1.23.0
+pandas>=2.0.0
+scipy>=1.10.0
+scikit-learn>=1.2.0
+statsmodels>=0.13.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+lifelines>=0.27.0
+
+# Optional: only needed for scripts/05_decoupler_headtohead.py (Section 3.3)
+decoupler>=2.0.0

@@ -1,0 +1,162 @@
+{
+  "raw_downloaded_files": {
+    "Achilles_fitness_decrease.txt": {
+      "size_bytes": 180498,
+      "sha256": "563c4199d99fcfce898a4be07ac1928555cb1b8e6b0a3ec17ccec61adaf4310a"
+    },
+    "DGIdb_Drug_Targets_2024.txt": {
+      "size_bytes": 85927,
+      "sha256": "9ae8ecd4357fb267e3b07f2f85bd1e0f8658f4a1ff92c3bcdb456a1c19433840"
+    },
+    "DepMap_CRISPR_GeneDependency_CellLines_2023.txt": {
+      "size_bytes": 2857954,
+      "sha256": "ade1225d1f2fb6277ce7993fac7cca1713e20eaf1e2f5bee033113ed257fefb4"
+    },
+    "GSE115978_cell.annotations.csv.gz": {
+      "size_bytes": 101286,
+      "sha256": "b83dd0ba7eb913e98d953dcf9dbb71752aaef57795b86364ff51d61167a5d46a"
+    },
+    "GSE115978_counts.csv.gz": {
+      "size_bytes": 51508919,
+      "sha256": "a0512f2b069484e63c2025c56200a280613290735abedf68b21d30f968def768"
+    },
+    "GSM9022963_A17_barcodes.tsv.gz": {
+      "size_bytes": 73873,
+      "sha256": "18e7e95a617b325559279801b501fb04a30c2d4705c81b25d827b2a6436698b5"
+    },
+    "GSM9022963_A17_features.tsv.gz": {
+      "size_bytes": 297935,
+      "sha256": "47ab01a528d12d99ae627aab974fdd60811d9c71629d89617cd80263329b0968"
+    },
+    "GSM9022963_A17_matrix.mtx.gz": {
+      "size_bytes": 16285610,
+      "sha256": "4343639b92cba775569cba589277df40c1f51eb57b58718ac32e86b9a91ecec1"
+    },
+    "GSM9022963_A17_tissue_positions.csv.gz": {
+      "size_bytes": 166323,
+      "sha256": "ac58873b73de8e4435efcf70de23433314d5376abae1d6ef648f53815497e661"
+    },
+    "IDG_Drug_Targets_2022.txt": {
+      "size_bytes": 96322,
+      "sha256": "8a60b394bb50062aec3cb744e53de699b5c3c90362049a3bea3c025cf94ecb65"
+    },
+    "LINCS_L1000_Chem_Pert_down.txt": {
+      "size_bytes": 14045684,
+      "sha256": "25c0dbcb78c929dd0b3e98327ad04f8f5138e35427d357e8fd02454ae80c83a2"
+    },
+    "LINCS_L1000_Chem_Pert_up.txt": {
+      "size_bytes": 16214812,
+      "sha256": "324647818b38a23385b4cd9ef8265499007f66db94e9f9de73cb3d837771a4a2"
+    },
+    "blca_iatlas_imvigor210_2017.tar.gz": {
+      "size_bytes": 129377862,
+      "sha256": "f61b65834356cdc54f096da410183ea9f0cc9f6acbd9474315e0d700e028d3cd"
+    },
+    "collectri_human.tsv": {
+      "size_bytes": 17163512,
+      "sha256": "7009965e6fde58f02cf3d4e1089f4f886df9ddae8edb6c8a2218c0c1573749db"
+    },
+    "mel_iatlas_gide_2019.tar.gz": {
+      "size_bytes": 23488658,
+      "sha256": "772d2753e3e919f25d0d4f5dd28c00fb677f51aef86fd843a66a6edb2a536547"
+    },
+    "mel_iatlas_hugo_ucla_2016.tar.gz": {
+      "size_bytes": 21247668,
+      "sha256": "98aa226f806b0fbb0b91675fe9e8da4e33da07dff750bdf5621660cdcbb39c41"
+    },
+    "mel_iatlas_liu_2019.tar.gz": {
+      "size_bytes": 37050242,
+      "sha256": "550687764a6be49d833bc635c570ede4d6ce77625ea61c4993a24b39f425b77b"
+    },
+    "mel_iatlas_riaz_nivolumab_2017.tar.gz": {
+      "size_bytes": 38513288,
+      "sha256": "c83e1875322538f9f4d408713f99908b161bb4b15dcde7c0ccdbddf335bfaf71"
+    },
+    "trrust_rawdata.human.tsv": {
+      "size_bytes": 297659,
+      "sha256": "9b909319ccc8e36588b5a1bd3640e0dfba03936c6fc154cc4304d742bec11bed"
+    }
+  },
+  "processed_files": {
+    "DFCI_Liu_Melanoma_clinical.csv": {
+      "size_bytes": 15639,
+      "sha256": "23c0498b2c97a1f8b2a32efaa762eca73a109f7acccb01a5c3c6e454a5286cb4"
+    },
+    "DFCI_Liu_Melanoma_expr.csv": {
+      "size_bytes": 2269466,
+      "sha256": "5dfcc8e03bb2cc144b3677ed237053176ef08bf2abbe3179e7fcb453fb8f5508"
+    },
+    "GSE78220_Hugo_Melanoma_clinical.csv": {
+      "size_bytes": 3178,
+      "sha256": "6ff52d61db9813ad7affbb7927e5271eb65e478e96f95f0ef0342a9a9f96e689"
+    },
+    "GSE78220_Hugo_Melanoma_expr.csv": {
+      "size_bytes": 506163,
+      "sha256": "0f471352152e38d545a186ee8bbac9ce63ac45c26701599d6affdb8d2b4df1b8"
+    },
+    "GSE91061_Riaz_Melanoma_clinical.csv": {
+      "size_bytes": 6213,
+      "sha256": "9e5958ffe2344e2e8ebfcea6780194b11ac36dcc8c80b6f99e7094b7dae79598"
+    },
+    "GSE91061_Riaz_Melanoma_expr.csv": {
+      "size_bytes": 972150,
+      "sha256": "4a186c6d2ee1f13d5084c90a8418a44bc579da51930ced31bad5b8a4cdf69868"
+    },
+    "IMvigor210_Urothelial_ICB_clinical.csv": {
+      "size_bytes": 48048,
+      "sha256": "87a0dff52ca86a8cdae94a2e1b8102dfa8570f19a5241241452779585989ea95"
+    },
+    "IMvigor210_Urothelial_ICB_expr.csv": {
+      "size_bytes": 6512967,
+      "sha256": "244574faace4c1b867187db7bbbd248bbc1fa26dc79ec5942db98d8cc3d39741"
+    },
+    "PRJEB23709_Gide_Melanoma_clinical.csv": {
+      "size_bytes": 10061,
+      "sha256": "67d63489726d0a5230549054027b8827756e7d3a3ac75e99bb690f337ae03a8c"
+    },
+    "PRJEB23709_Gide_Melanoma_expr.csv": {
+      "size_bytes": 1377863,
+      "sha256": "d23c795e16bc76a04b4c8610293f26ecbd9387f5e3656507fcb235b0120c88c8"
+    },
+    "depmap_crispr_scores.csv": {
+      "size_bytes": 46352,
+      "sha256": "3a24eac87ee160f0cc3c1133dae6422d0b9a800f8400822f7ced4272b41114b3"
+    },
+    "drug_clinical_gold_standard.csv": {
+      "size_bytes": 3904,
+      "sha256": "813652264f1ff9a1e739ee216b135fbbe6f567be20f7ad77325d20fda51748b8"
+    },
+    "drug_targets_map.json": {
+      "size_bytes": 3271,
+      "sha256": "a170f378d119370e4e7112e890ab7db212eecbe05e2eb0330322e72734d736b3"
+    },
+    "human_regulon_network.csv": {
+      "size_bytes": 97052,
+      "sha256": "76995cece728be730fc6b7bdec9d3877b54ebf843e04169f146136e22eaccbd3"
+    },
+    "lincs_drug_signatures.csv": {
+      "size_bytes": 647992,
+      "sha256": "61851c60ae50148c77b8d017d8f15030ea7be4d4e887dab99c5841fce735c59b"
+    },
+    "melanoma_sc_expr.csv": {
+      "size_bytes": 90226676,
+      "sha256": "6317817eefc61e3e7a35e2ffec0d9e519523fd7bdbc6cb143091f4d6b5c84e48"
+    },
+    "melanoma_sc_meta.csv": {
+      "size_bytes": 647533,
+      "sha256": "e25283c942fb08500fa8e0ec55e8ed0ac9d05015539a13da45c9812c43a358db"
+    },
+    "melanoma_sc_raw_counts.csv": {
+      "size_bytes": 42897574,
+      "sha256": "9cafb9861798d224fdcacc2853e562fc9e6ca92656a73a7c2e9925fcde9fcb18"
+    },
+    "visium_melanoma_expr.csv": {
+      "size_bytes": 15733590,
+      "sha256": "bca6efc374a442d5f89fe29dac82bcc8931557d13b2aea1ee2966759e8729b05"
+    },
+    "visium_melanoma_meta.csv": {
+      "size_bytes": 67985,
+      "sha256": "9bb5c41acdd011472ca13f270d12b52a8820e2d350837ef8b2dbae17bd92a665"
+    }
+  }
+}

@@ -1,0 +1,348 @@
+patient_id,original_patient_id,cohort,cohort_desc,sample_treatment,OS_months,OS_event,Responder,ICB_non_responder,RECIST_response,TIDE_non_responder,Resistance_Phenotype_Score
+10001,10001,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,3.91,1,0.0,1.0,Progressive Disease,1,1.0
+10003,10003,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,2.86,1,0.0,1.0,Progressive Disease,0,1.0
+10004,10004,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,4.99,1,0.0,1.0,Progressive Disease,0,1.0
+10005,10005,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,20.73,0,1.0,0.0,Complete Response,1,0.0
+10006,10006,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,1.68,1,0.0,1.0,Progressive Disease,0,1.0
+10007,10007,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,12.71,0,1.0,0.0,Partial Response,0,0.0
+10008,10008,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,7.85,1,0.0,1.0,Progressive Disease,1,1.0
+10010,10010,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,5.95,1,0.0,1.0,Progressive Disease,0,1.0
+10011,10011,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,2.53,1,0.0,1.0,Progressive Disease,1,1.0
+10012,10012,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,10.41,1,0.0,1.0,Progressive Disease,1,1.0
+10013,10013,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,5.88,1,0.0,1.0,Progressive Disease,0,1.0
+10014,10014,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,23.69,0,1.0,0.0,Stable Disease,1,0.0
+10015,10015,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,6.9,1,0.0,1.0,Progressive Disease,0,1.0
+10016,10016,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,4.14,1,1.0,0.0,Stable Disease,1,0.0
+10017,10017,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,4.89,1,1.0,0.0,Stable Disease,0,0.0
+10018,10018,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,11.66,1,1.0,0.0,Stable Disease,1,0.0
+10019,10019,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,13.3,1,1.0,0.0,Stable Disease,0,0.0
+10020,10020,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,1.81,1,,,Unknown,1,
+10021,10021,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,9.23,1,1.0,0.0,Stable Disease,1,0.0
+10022,10022,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,6.27,1,0.0,1.0,Progressive Disease,1,1.0
+10023,10023,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,17.9,1,0.0,1.0,Progressive Disease,0,1.0
+10024,10024,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,9.89,1,0.0,1.0,Progressive Disease,1,1.0
+10025,10025,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,15.87,1,0.0,1.0,Progressive Disease,1,1.0
+10026,10026,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,8.02,1,1.0,0.0,Stable Disease,0,0.0
+10027,10027,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,18.1,0,,,Unknown,1,
+10028,10028,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,21.58,0,1.0,0.0,Stable Disease,1,0.0
+10029,10029,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,22.37,0,1.0,0.0,Partial Response,1,0.0
+10030,10030,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,14.75,0,0.0,1.0,Progressive Disease,1,1.0
+10031,10031,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,19.19,0,0.0,1.0,Progressive Disease,1,1.0
+10032,10032,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,7.06,1,,,Unknown,0,
+10033,10033,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,2.63,1,0.0,1.0,Progressive Disease,1,1.0
+10034,10034,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,5.88,1,0.0,1.0,Progressive Disease,1,1.0
+10035,10035,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,18.73,0,1.0,0.0,Stable Disease,1,0.0
+10036,10036,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,1.97,1,0.0,1.0,Progressive Disease,0,1.0
+10037,10037,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,7.46,1,0.0,1.0,Progressive Disease,1,1.0
+10038,10038,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,18.0,0,,,Unknown,1,
+10039,10039,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,2.89,1,,,Unknown,0,
+10040,10040,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,9.0,1,0.0,1.0,Progressive Disease,0,1.0
+10041,10041,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,23.26,0,1.0,0.0,Partial Response,1,0.0
+10042,10042,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,18.86,0,1.0,0.0,Partial Response,1,0.0
+10043,10043,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,13.27,1,1.0,0.0,Stable Disease,1,0.0
+10044,10044,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,23.16,0,1.0,0.0,Partial Response,1,0.0
+10045,10045,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,1.71,1,,,Unknown,0,
+10046,10046,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,6.7,1,1.0,0.0,Stable Disease,0,0.0
+10047,10047,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,12.42,1,0.0,1.0,Progressive Disease,0,1.0
+10048,10048,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,17.97,1,0.0,1.0,Progressive Disease,1,1.0
+10049,10049,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,21.22,0,1.0,0.0,Partial Response,1,0.0
+10050,10050,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,4.37,1,0.0,1.0,Progressive Disease,1,1.0
+10051,10051,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,21.65,0,1.0,0.0,Partial Response,1,0.0
+10052,10052,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,14.75,0,1.0,0.0,Stable Disease,1,0.0
+10053,10053,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,1.81,1,,,Unknown,1,
+10054,10054,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,1.81,1,0.0,1.0,Progressive Disease,1,1.0
+10055,10055,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,9.76,1,0.0,1.0,Progressive Disease,1,1.0
+10056,10056,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,10.87,1,0.0,1.0,Progressive Disease,1,1.0
+10057,10057,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,1.71,1,,,Unknown,1,
+10058,10058,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,20.01,0,1.0,0.0,Partial Response,1,0.0
+10059,10059,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,5.65,1,0.0,1.0,Progressive Disease,1,1.0
+10060,10060,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,0.62,1,,,Unknown,1,
+10061,10061,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,23.52,0,1.0,0.0,Complete Response,1,0.0
+10062,10062,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,17.28,0,1.0,0.0,Partial Response,1,0.0
+10063,10063,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,6.73,1,0.0,1.0,Progressive Disease,0,1.0
+10064,10064,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,20.76,1,0.0,1.0,Progressive Disease,1,1.0
+10065,10065,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,20.63,0,1.0,0.0,Stable Disease,1,0.0
+10066,10066,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,2.53,1,0.0,1.0,Progressive Disease,0,1.0
+10068,10068,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,3.19,1,0.0,1.0,Progressive Disease,0,1.0
+10069,10069,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,2.66,1,0.0,1.0,Progressive Disease,1,1.0
+10070,10070,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,6.6,1,0.0,1.0,Progressive Disease,0,1.0
+10071,10071,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,2.56,1,0.0,1.0,Progressive Disease,1,1.0
+10072,10072,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,1.71,0,1.0,0.0,Stable Disease,1,0.0
+10073,10073,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,11.4,1,1.0,0.0,Partial Response,1,0.0
+10074,10074,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,6.7,1,0.0,1.0,Progressive Disease,1,1.0
+10076,10076,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,6.11,1,0.0,1.0,Progressive Disease,1,1.0
+10077,10077,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,15.6,1,1.0,0.0,Stable Disease,1,0.0
+10078,10078,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,7.39,1,1.0,0.0,Stable Disease,1,0.0
+10079,10079,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,2.69,1,,,Unknown,1,
+10080,10080,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,2.14,1,0.0,1.0,Progressive Disease,1,1.0
+10081,10081,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,2.14,1,0.0,1.0,Progressive Disease,1,1.0
+10082,10082,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,1.18,1,0.0,1.0,Progressive Disease,1,1.0
+10083,10083,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,8.25,1,1.0,0.0,Stable Disease,1,0.0
+10084,10084,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,15.8,1,0.0,1.0,Progressive Disease,1,1.0
+10085,10085,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,4.53,1,1.0,0.0,Stable Disease,1,0.0
+10086,10086,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,5.85,1,0.0,1.0,Progressive Disease,1,1.0
+10087,10087,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,14.75,1,0.0,1.0,Progressive Disease,1,1.0
+10088,10088,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,19.12,1,1.0,0.0,Stable Disease,0,0.0
+10089,10089,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,19.28,1,0.0,1.0,Progressive Disease,1,1.0
+10090,10090,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,20.73,0,1.0,0.0,Complete Response,1,0.0
+10091,10091,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,1.87,1,,,Unknown,1,
+10092,10092,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,0.56,1,0.0,1.0,Progressive Disease,0,1.0
+10093,10093,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,16.85,0,1.0,0.0,Partial Response,0,0.0
+10095,10095,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,6.01,1,0.0,1.0,Progressive Disease,1,1.0
+10096,10096,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,20.01,0,1.0,0.0,Partial Response,0,0.0
+10097,10097,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,2.1,0,0.0,1.0,Progressive Disease,1,1.0
+10098,10098,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,5.85,1,0.0,1.0,Progressive Disease,1,1.0
+10099,10099,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,8.08,1,0.0,1.0,Progressive Disease,1,1.0
+10100,10100,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,23.32,0,1.0,0.0,Stable Disease,0,0.0
+10101,10101,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,0.43,1,,,Unknown,1,
+10102,10102,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,2.69,1,,,Unknown,0,
+10103,10103,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,5.65,1,0.0,1.0,Progressive Disease,1,1.0
+10104,10104,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,9.56,1,0.0,1.0,Progressive Disease,0,1.0
+10105,10105,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,1.12,1,0.0,1.0,Progressive Disease,0,1.0
+10106,10106,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,3.61,1,0.0,1.0,Progressive Disease,1,1.0
+10107,10107,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,2.6,1,0.0,1.0,Progressive Disease,1,1.0
+10108,10108,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,1.74,1,0.0,1.0,Progressive Disease,0,1.0
+10109,10109,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,7.23,1,0.0,1.0,Progressive Disease,0,1.0
+10110,10110,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,2.83,1,,,Unknown,1,
+10111,10111,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,10.84,1,0.0,1.0,Progressive Disease,1,1.0
+10112,10112,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,1.94,1,0.0,1.0,Progressive Disease,0,1.0
+10113,10113,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,16.46,0,0.0,1.0,Progressive Disease,1,1.0
+10114,10114,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,2.1,1,0.0,1.0,Progressive Disease,1,1.0
+10115,10115,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,20.07,0,1.0,0.0,Complete Response,1,0.0
+10116,10116,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,11.1,1,0.0,1.0,Progressive Disease,1,1.0
+10117,10117,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,21.06,0,1.0,0.0,Complete Response,1,0.0
+10118,10118,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,7.95,1,0.0,1.0,Progressive Disease,1,1.0
+10119,10119,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,0.2,0,0.0,1.0,Progressive Disease,1,1.0
+10120,10120,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,15.64,0,1.0,0.0,Stable Disease,0,0.0
+10121,10121,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,6.5,1,0.0,1.0,Progressive Disease,1,1.0
+10122,10122,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,17.28,0,1.0,0.0,Partial Response,0,0.0
+10123,10123,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,21.25,0,1.0,0.0,Complete Response,0,0.0
+10124,10124,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,20.7,0,1.0,0.0,Complete Response,1,0.0
+10125,10125,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,10.55,1,0.0,1.0,Progressive Disease,1,1.0
+10127,10127,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,21.02,1,1.0,0.0,Stable Disease,0,0.0
+10128,10128,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,0.36,1,,,Unknown,1,
+10129,10129,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,15.44,0,0.0,1.0,Progressive Disease,0,1.0
+10130,10130,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,22.11,0,1.0,0.0,Partial Response,0,0.0
+10131,10131,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,2.1,1,0.0,1.0,Progressive Disease,1,1.0
+10132,10132,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,6.8,1,0.0,1.0,Progressive Disease,1,1.0
+10133,10133,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,17.28,0,1.0,0.0,Stable Disease,1,0.0
+10134,10134,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,0.59,1,,,Unknown,0,
+10135,10135,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,5.72,1,0.0,1.0,Progressive Disease,1,1.0
+10136,10136,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,17.77,1,1.0,0.0,Stable Disease,1,0.0
+10137,10137,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,0.62,0,,,Unknown,1,
+10138,10138,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,20.27,0,1.0,0.0,Complete Response,1,0.0
+10139,10139,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,21.42,0,1.0,0.0,Partial Response,0,0.0
+10140,10140,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,20.04,0,,,Unknown,1,
+10141,10141,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,23.82,0,1.0,0.0,Stable Disease,1,0.0
+10142,10142,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,3.12,1,0.0,1.0,Progressive Disease,0,1.0
+10143,10143,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,3.22,1,0.0,1.0,Progressive Disease,1,1.0
+10144,10144,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,7.95,1,1.0,0.0,Stable Disease,1,0.0
+10145,10145,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,3.45,1,0.0,1.0,Progressive Disease,1,1.0
+10146,10146,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,3.88,1,0.0,1.0,Progressive Disease,0,1.0
+10147,10147,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,22.73,0,0.0,1.0,Progressive Disease,0,1.0
+10148,10148,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,22.08,0,1.0,0.0,Complete Response,1,0.0
+10149,10149,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,17.21,0,1.0,0.0,Partial Response,1,0.0
+10150,10150,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,24.47,0,1.0,0.0,Partial Response,0,0.0
+10151,10151,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,20.57,0,0.0,1.0,Progressive Disease,1,1.0
+10153,10153,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,0.62,1,,,Unknown,1,
+10154,10154,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,10.12,1,1.0,0.0,Stable Disease,1,0.0
+10155,10155,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,20.86,0,1.0,0.0,Partial Response,1,0.0
+10156,10156,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,23.39,0,1.0,0.0,Partial Response,1,0.0
+10157,10157,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,19.35,0,1.0,0.0,Complete Response,1,0.0
+10159,10159,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,2.63,1,0.0,1.0,Progressive Disease,1,1.0
+10160,10160,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,10.18,1,0.0,1.0,Progressive Disease,1,1.0
+10161,10161,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,7.33,1,0.0,1.0,Progressive Disease,1,1.0
+10162,10162,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,17.02,1,1.0,0.0,Partial Response,0,0.0
+10164,10164,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,15.31,1,1.0,0.0,Stable Disease,0,0.0
+10165,10165,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,19.42,0,1.0,0.0,Complete Response,1,0.0
+10166,10166,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,2.5,1,0.0,1.0,Progressive Disease,1,1.0
+10167,10167,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,6.24,1,0.0,1.0,Progressive Disease,0,1.0
+10168,10168,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,22.11,0,0.0,1.0,Progressive Disease,0,1.0
+10169,10169,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,3.84,1,0.0,1.0,Progressive Disease,0,1.0
+10170,10170,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,21.19,0,1.0,0.0,Stable Disease,1,0.0
+10171,10171,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,8.84,1,0.0,1.0,Progressive Disease,0,1.0
+10172,10172,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,7.72,1,0.0,1.0,Progressive Disease,0,1.0
+10173,10173,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,5.39,1,0.0,1.0,Progressive Disease,1,1.0
+10174,10174,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,12.84,0,1.0,0.0,Partial Response,1,0.0
+10175,10175,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,16.23,1,0.0,1.0,Progressive Disease,0,1.0
+10176,10176,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,1.45,1,0.0,1.0,Progressive Disease,0,1.0
+10177,10177,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,0.89,1,,,Unknown,1,
+10178,10178,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,5.52,0,1.0,0.0,Stable Disease,1,0.0
+10180,10180,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,5.68,1,0.0,1.0,Progressive Disease,1,1.0
+10181,10181,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,5.06,1,0.0,1.0,Progressive Disease,0,1.0
+10182,10182,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,2.1,0,0.0,1.0,Progressive Disease,1,1.0
+10184,10184,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,0.85,1,0.0,1.0,Progressive Disease,1,1.0
+10185,10185,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,6.96,1,1.0,0.0,Stable Disease,0,0.0
+10187,10187,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,5.39,1,1.0,0.0,Stable Disease,1,0.0
+10188,10188,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,20.27,0,1.0,0.0,Stable Disease,1,0.0
+10189,10189,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,20.73,0,1.0,0.0,Stable Disease,1,0.0
+10190,10190,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,1.45,1,,,Unknown,1,
+10191,10191,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,20.63,0,1.0,0.0,Partial Response,0,0.0
+10192,10192,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,16.26,1,0.0,1.0,Progressive Disease,1,1.0
+10193,10193,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,3.88,1,0.0,1.0,Progressive Disease,1,1.0
+10194,10194,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,9.26,1,1.0,0.0,Complete Response,1,0.0
+10195,10195,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,15.37,1,1.0,0.0,Stable Disease,1,0.0
+10196,10196,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,21.62,0,1.0,0.0,Partial Response,0,0.0
+10198,10198,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,0.76,1,,,Unknown,0,
+10199,10199,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,15.67,0,1.0,0.0,Stable Disease,0,0.0
+10200,10200,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,2.46,1,,,Unknown,0,
+10201,10201,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,21.58,0,1.0,0.0,Complete Response,0,0.0
+10202,10202,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,18.56,0,1.0,0.0,Complete Response,1,0.0
+10203,10203,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,2.83,1,,,Unknown,1,
+10204,10204,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,1.97,1,,,Unknown,0,
+10205,10205,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,20.83,0,1.0,0.0,Complete Response,1,0.0
+10206,10206,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,3.88,1,0.0,1.0,Progressive Disease,1,1.0
+10207,10207,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,4.5,1,0.0,1.0,Progressive Disease,1,1.0
+10208,10208,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,1.91,1,,,Unknown,1,
+10209,10209,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,3.98,1,0.0,1.0,Progressive Disease,0,1.0
+10210,10210,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,18.63,0,,,Unknown,1,
+10211,10211,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,0.82,1,,,Unknown,1,
+10212,10212,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,19.12,0,1.0,0.0,Stable Disease,0,0.0
+10213,10213,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,15.7,0,1.0,0.0,Partial Response,1,0.0
+10215,10215,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,15.41,1,1.0,0.0,Stable Disease,0,0.0
+10216,10216,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,2.23,1,0.0,1.0,Progressive Disease,1,1.0
+10217,10217,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,3.48,1,0.0,1.0,Progressive Disease,1,1.0
+10220,10220,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,4.63,1,0.0,1.0,Progressive Disease,0,1.0
+10221,10221,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,10.48,1,0.0,1.0,Progressive Disease,1,1.0
+10222,10222,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,3.12,1,0.0,1.0,Progressive Disease,0,1.0
+10223,10223,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,21.39,0,1.0,0.0,Stable Disease,0,0.0
+10224,10224,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,2.07,1,0.0,1.0,Progressive Disease,1,1.0
+10225,10225,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,10.91,1,0.0,1.0,Progressive Disease,1,1.0
+10226,10226,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,21.25,0,0.0,1.0,Progressive Disease,1,1.0
+10227,10227,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,9.86,1,0.0,1.0,Progressive Disease,1,1.0
+10228,10228,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,2.3,1,0.0,1.0,Progressive Disease,1,1.0
+10229,10229,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,16.03,0,1.0,0.0,Stable Disease,1,0.0
+10230,10230,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,24.18,0,1.0,0.0,Partial Response,0,0.0
+10232,10232,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,15.64,1,1.0,0.0,Stable Disease,0,0.0
+10233,10233,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,21.58,0,1.0,0.0,Complete Response,1,0.0
+10234,10234,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,23.23,0,1.0,0.0,Partial Response,1,0.0
+10235,10235,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,16.59,0,1.0,0.0,Partial Response,1,0.0
+10236,10236,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,3.61,1,0.0,1.0,Progressive Disease,0,1.0
+10238,10238,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,21.42,0,1.0,0.0,Partial Response,1,0.0
+10239,10239,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,18.73,0,1.0,0.0,Partial Response,1,0.0
+10240,10240,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,3.55,1,0.0,1.0,Progressive Disease,0,1.0
+10241,10241,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,2.14,1,,,Unknown,1,
+10242,10242,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,7.88,1,0.0,1.0,Progressive Disease,1,1.0
+10243,10243,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,20.47,0,1.0,0.0,Stable Disease,1,0.0
+10244,10244,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,16.46,0,1.0,0.0,Partial Response,0,0.0
+10245,10245,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,16.59,0,1.0,0.0,Partial Response,1,0.0
+10246,10246,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,2.73,1,0.0,1.0,Progressive Disease,0,1.0
+10247,10247,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,7.92,1,1.0,0.0,Stable Disease,1,0.0
+10248,10248,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,16.82,0,1.0,0.0,Complete Response,0,0.0
+10249,10249,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,9.03,1,0.0,1.0,Progressive Disease,1,1.0
+10250,10250,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,0.53,1,,,Unknown,1,
+10251,10251,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,11.27,1,0.0,1.0,Progressive Disease,0,1.0
+10252,10252,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,1.68,1,,,Unknown,0,
+10253,10253,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,10.35,1,0.0,1.0,Progressive Disease,1,1.0
+10254,10254,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,2.89,1,0.0,1.0,Progressive Disease,1,1.0
+10255,10255,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,1.58,1,,,Unknown,1,
+10256,10256,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,1.94,1,,,Unknown,1,
+10257,10257,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,0.69,0,,,Unknown,0,
+10258,10258,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,4.37,1,0.0,1.0,Progressive Disease,1,1.0
+10259,10259,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,20.57,0,1.0,0.0,Partial Response,1,0.0
+10260,10260,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,15.83,0,0.0,1.0,Progressive Disease,1,1.0
+10262,10262,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,10.48,1,0.0,1.0,Progressive Disease,1,1.0
+10263,10263,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,1.15,1,,,Unknown,1,
+10264,10264,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,0.62,1,,,Unknown,1,
+10265,10265,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,22.54,0,1.0,0.0,Partial Response,0,0.0
+10266,10266,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,13.27,1,0.0,1.0,Progressive Disease,0,1.0
+10267,10267,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,21.45,0,1.0,0.0,Complete Response,0,0.0
+10268,10268,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,2.17,1,0.0,1.0,Progressive Disease,1,1.0
+10269,10269,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,12.81,1,1.0,0.0,Partial Response,0,0.0
+10270,10270,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,11.93,1,0.0,1.0,Progressive Disease,0,1.0
+10271,10271,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,8.02,1,0.0,1.0,Progressive Disease,1,1.0
+10272,10272,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,22.11,0,1.0,0.0,Stable Disease,1,0.0
+10273,10273,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,21.32,0,1.0,0.0,Partial Response,0,0.0
+10274,10274,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,18.17,0,1.0,0.0,Partial Response,0,0.0
+10275,10275,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,2.07,1,0.0,1.0,Progressive Disease,0,1.0
+10277,10277,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,12.84,1,0.0,1.0,Progressive Disease,1,1.0
+10279,10279,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,5.39,1,1.0,0.0,Stable Disease,1,0.0
+10280,10280,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,13.4,1,1.0,0.0,Stable Disease,1,0.0
+10281,10281,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,2.76,1,0.0,1.0,Progressive Disease,1,1.0
+10282,10282,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,1.05,1,,,Unknown,0,
+10284,10284,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,6.24,1,1.0,0.0,Stable Disease,0,0.0
+10285,10285,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,0.49,1,,,Unknown,1,
+10286,10286,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,8.9,0,0.0,1.0,Progressive Disease,0,1.0
+10287,10287,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,3.71,1,0.0,1.0,Progressive Disease,1,1.0
+10289,10289,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,2.04,1,,,Unknown,0,
+10290,10290,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,14.13,0,0.0,1.0,Progressive Disease,0,1.0
+10291,10291,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,6.7,1,0.0,1.0,Progressive Disease,1,1.0
+10292,10292,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,8.71,1,0.0,1.0,Progressive Disease,0,1.0
+10293,10293,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,22.83,0,0.0,1.0,Progressive Disease,1,1.0
+10294,10294,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,3.55,1,1.0,0.0,Stable Disease,0,0.0
+10295,10295,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,9.49,1,0.0,1.0,Progressive Disease,1,1.0
+10296,10296,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,17.12,0,1.0,0.0,Complete Response,1,0.0
+10297,10297,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,20.7,0,1.0,0.0,Stable Disease,1,0.0
+10298,10298,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,13.34,1,0.0,1.0,Progressive Disease,1,1.0
+10299,10299,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,4.27,1,0.0,1.0,Progressive Disease,0,1.0
+10300,10300,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,14.13,1,0.0,1.0,Progressive Disease,0,1.0
+10301,10301,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,1.22,1,,,Unknown,0,
+10302,10302,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,3.45,0,0.0,1.0,Progressive Disease,0,1.0
+10303,10303,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,19.28,0,0.0,1.0,Progressive Disease,1,1.0
+10304,10304,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,5.12,1,1.0,0.0,Stable Disease,0,0.0
+10305,10305,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,5.39,1,0.0,1.0,Progressive Disease,1,1.0
+10306,10306,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,2.43,1,0.0,1.0,Progressive Disease,1,1.0
+10307,10307,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,2.23,1,0.0,1.0,Progressive Disease,1,1.0
+10308,10308,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,4.17,1,0.0,1.0,Progressive Disease,1,1.0
+10309,10309,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,19.28,0,1.0,0.0,Complete Response,1,0.0
+10310,10310,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,2.2,1,0.0,1.0,Progressive Disease,0,1.0
+10311,10311,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,2.14,1,0.0,1.0,Progressive Disease,1,1.0
+10312,10312,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,2.23,1,0.0,1.0,Progressive Disease,1,1.0
+10313,10313,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,18.66,0,1.0,0.0,Stable Disease,0,0.0
+10314,10314,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,0.36,1,,,Unknown,0,
+10315,10315,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,6.41,1,1.0,0.0,Stable Disease,0,0.0
+10316,10316,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,2.92,1,,,Unknown,1,
+10317,10317,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,5.49,1,0.0,1.0,Progressive Disease,1,1.0
+10319,10319,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,21.16,1,1.0,0.0,Stable Disease,0,0.0
+10320,10320,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,21.16,1,1.0,0.0,Stable Disease,0,0.0
+10321,10321,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,10.58,1,1.0,0.0,Stable Disease,1,0.0
+10323,10323,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,0.82,0,,,Unknown,1,
+10324,10324,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,1.84,1,,,Unknown,0,
+10325,10325,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,3.12,1,0.0,1.0,Progressive Disease,0,1.0
+10326,10326,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,3.25,1,0.0,1.0,Progressive Disease,1,1.0
+10327,10327,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,0.82,1,,,Unknown,1,
+10328,10328,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,4.96,1,,,Unknown,1,
+10329,10329,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,8.08,1,1.0,0.0,Stable Disease,1,0.0
+10330,10330,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,21.85,0,1.0,0.0,Stable Disease,1,0.0
+10332,10332,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,4.37,1,0.0,1.0,Progressive Disease,1,1.0
+10333,10333,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,6.73,1,1.0,0.0,Stable Disease,0,0.0
+10334,10334,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,8.28,1,1.0,0.0,Stable Disease,1,0.0
+10335,10335,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,23.13,0,1.0,0.0,Complete Response,0,0.0
+10336,10336,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,20.5,0,1.0,0.0,Partial Response,1,0.0
+10337,10337,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,11.37,1,1.0,0.0,Stable Disease,1,0.0
+10339,10339,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,2.76,1,0.0,1.0,Progressive Disease,0,1.0
+10340,10340,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,3.52,1,0.0,1.0,Progressive Disease,1,1.0
+10341,10341,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,20.07,0,1.0,0.0,Complete Response,0,0.0
+10343,10343,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,18.89,0,1.0,0.0,Partial Response,1,0.0
+10344,10344,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,22.4,0,1.0,0.0,Partial Response,1,0.0
+10345,10345,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,12.71,1,1.0,0.0,Stable Disease,0,0.0
+10346,10346,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,8.77,1,0.0,1.0,Progressive Disease,1,1.0
+10347,10347,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,10.25,1,1.0,0.0,Stable Disease,0,0.0
+10348,10348,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,1.31,1,,,Unknown,1,
+10349,10349,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,20.57,0,1.0,0.0,Complete Response,1,0.0
+10350,10350,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,17.08,1,0.0,1.0,Progressive Disease,0,1.0
+10351,10351,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,22.5,0,0.0,1.0,Progressive Disease,1,1.0
+10352,10352,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,3.75,1,0.0,1.0,Progressive Disease,1,1.0
+10353,10353,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,2.1,0,0.0,1.0,Progressive Disease,1,1.0
+10354,10354,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,22.14,0,1.0,0.0,Complete Response,1,0.0
+10355,10355,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,21.39,0,1.0,0.0,Complete Response,1,0.0
+10356,10356,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,1.02,1,0.0,1.0,Progressive Disease,1,1.0
+10357,10357,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,0.23,1,,,Unknown,0,
+10358,10358,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,0.85,1,,,Unknown,1,
+10359,10359,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,7.62,1,0.0,1.0,Progressive Disease,1,1.0
+10360,10360,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,12.84,1,1.0,0.0,Stable Disease,1,0.0
+10361,10361,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,3.12,1,0.0,1.0,Progressive Disease,1,1.0
+10362,10362,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,1.48,1,0.0,1.0,Progressive Disease,1,1.0
+10363,10363,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,22.73,0,1.0,0.0,Partial Response,1,0.0
+10364,10364,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,15.54,1,1.0,0.0,Partial Response,1,0.0
+10365,10365,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,5.52,1,0.0,1.0,Progressive Disease,1,1.0
+10366,10366,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,13.99,0,0.0,1.0,Progressive Disease,1,1.0
+10367,10367,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,16.46,1,0.0,1.0,Progressive Disease,0,1.0
+10368,10368,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,20.73,0,1.0,0.0,Partial Response,1,0.0
+10369,10369,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,7.06,0,0.0,1.0,Progressive Disease,1,1.0
+10370,10370,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,2.14,1,0.0,1.0,Progressive Disease,1,1.0
+10371,10371,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,17.28,0,1.0,0.0,Partial Response,1,0.0
+10372,10372,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,14.98,0,0.0,1.0,Progressive Disease,1,1.0
+10373,10373,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,18.17,0,0.0,1.0,Progressive Disease,0,1.0
+10374,10374,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,8.08,1,0.0,1.0,Progressive Disease,1,1.0
+10375,10375,IMvigor210_Urothelial_ICB,"Urothelial Phase II (Anti-PD-L1, IMvigor210 Nature 2018)",Pre,1.41,1,0.0,1.0,Progressive Disease,1,1.0

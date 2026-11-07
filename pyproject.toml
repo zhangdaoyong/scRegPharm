@@ -1,0 +1,33 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "scregpharm"
+version = "1.0.0"
+description = "Single-cell regulon-manifold phenotype mapping and tri-modal pharmacological reversal"
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+authors = [
+    { name = "Daoyong Zhang" }
+]
+dependencies = [
+    "numpy>=1.23.0",
+    "pandas>=2.0.0",
+    "scipy>=1.10.0",
+    "scikit-learn>=1.2.0",
+    "statsmodels>=0.13.0",
+    "matplotlib>=3.7.0",
+    "seaborn>=0.12.0",
+    "lifelines>=0.27.0",
+    # optional: scripts/05 head-to-head benchmark only
+    "decoupler>=2.0.0; extra == \"benchmarks\""
+]
+
+[tool.setuptools]
+packages = ["scregpharm"]
+
+[project.urls]
+Homepage = "https://github.com/zhangdaoyong/scRegPharm"
+Repository = "https://github.com/zhangdaoyong/scRegPharm"

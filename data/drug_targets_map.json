@@ -1,0 +1,244 @@
+{
+  "cgp-60474": [
+    "CDK1",
+    "CDK2",
+    "CDK4",
+    "CDK9"
+  ],
+  "pd-0325901": [
+    "MAP2K1",
+    "MAP2K2"
+  ],
+  "mitoxantrone": [
+    "TOP2A",
+    "TOP2B",
+    "POLK",
+    "ATAD5",
+    "ARSA",
+    "BLM",
+    "CHRM1",
+    "CHRM2",
+    "GALNT14",
+    "ALOX15"
+  ],
+  "withaferin-a": [
+    "VIM",
+    "IKBKB"
+  ],
+  "azd-8330": [
+    "MAP2K1",
+    "MAP2K2"
+  ],
+  "as-605240": [
+    "PIK3CG"
+  ],
+  "belinostat": [
+    "HDAC1",
+    "HDAC2",
+    "HDAC3",
+    "HDAC6",
+    "HDAC5",
+    "HDAC7",
+    "HDAC11",
+    "HDAC4",
+    "BRD4",
+    "HDAC10"
+  ],
+  "azd-7762": [
+    "CHEK1",
+    "CHEK2"
+  ],
+  "selumetinib": [
+    "MAP2K1",
+    "MAP2K2",
+    "ATM",
+    "GNAQ",
+    "RIT1",
+    "ERBB3",
+    "DDX43",
+    "MAP2K6",
+    "NRAS",
+    "PTEN"
+  ],
+  "dabrafenib": [
+    "BRAF",
+    "RAF1",
+    "HLA-DRB1",
+    "RIPK3",
+    "EZH2",
+    "PTEN",
+    "NRAS",
+    "KRAS",
+    "CD274",
+    "ALK"
+  ],
+  "dinaciclib": [
+    "CDK1",
+    "CDK2",
+    "CDK5",
+    "CDK9",
+    "CCNE1",
+    "MYC"
+  ],
+  "trametinib": [
+    "MAP2K1",
+    "MAP2K2",
+    "ATM",
+    "FLT3",
+    "RAF1",
+    "ERBB3",
+    "DDX43",
+    "MAP2K6",
+    "NRAS",
+    "PTEN"
+  ],
+  "plx-4720": [
+    "BRAF"
+  ],
+  "sb590885": [
+    "BRAF"
+  ],
+  "gsk-1059615": [
+    "PIK3CA",
+    "PIK3CB",
+    "PIK3CD",
+    "PIK3CG",
+    "MTOR"
+  ],
+  "dovitinib": [
+    "FGFR1",
+    "FGFR3",
+    "KDR",
+    "PDGFRB",
+    "FLT3",
+    "KIT",
+    "ABL1",
+    "ALK",
+    "CHEK1",
+    "SRPK1"
+  ],
+  "pd-184352": [
+    "MAP2K1",
+    "MAP2K2"
+  ],
+  "sunitinib": [
+    "KDR",
+    "PDGFRB",
+    "KIT",
+    "FLT3",
+    "CSF1R",
+    "RIOK3",
+    "EPHA6",
+    "POR",
+    "SRPK3",
+    "STK17B"
+  ],
+  "pracinostat": [
+    "HDAC1",
+    "HDAC2",
+    "HDAC3"
+  ],
+  "pha-793887": [
+    "CDK2",
+    "CDK4",
+    "CDK5",
+    "CDK7",
+    "CDK9"
+  ],
+  "mocetinostat": [
+    "HDAC1",
+    "HDAC2",
+    "HDAC3",
+    "HDAC5",
+    "HDAC7",
+    "HDAC11",
+    "HDAC4",
+    "HDAC6",
+    "HDAC10",
+    "HDAC9"
+  ],
+  "foretinib": [
+    "MET",
+    "KDR",
+    "AXL",
+    "FLT3",
+    "FLT4",
+    "TEK",
+    "FLT1",
+    "KIT",
+    "YES1",
+    "PDGFRA"
+  ],
+  "(e)-capsaicin": [],
+  "15-delta prostaglandin j2": [],
+  "15-deoxy-?12,14-prostaglandin j2": [],
+  "16-hydroxytriptolide": [],
+  "7b-cis": [],
+  "a443654": [],
+  "a8674": [],
+  "abt-737": [],
+  "abt-751": [],
+  "ag 957": [],
+  "ag14361": [],
+  "akti-1/2": [],
+  "ala-ala-phe-cmk": [],
+  "am 281": [],
+  "amsacrine": [
+    "MTOR",
+    "ATAD5",
+    "CBX1",
+    "TOP1MT",
+    "CYP2C9",
+    "CYP2C19"
+  ],
+  "amyleine hydrochloride": [],
+  "arachidonyl trifluoro-methyl ketone": [],
+  "arp 101": [],
+  "as605240": [],
+  "at-csc-18 brd-k01121114": [],
+  "at7867": [],
+  "az-628": [],
+  "az20": [],
+  "azacitidine": [
+    "FLT3",
+    "ATAD5",
+    "TET2",
+    "RORC",
+    "KRAS",
+    "THPO"
+  ],
+  "azathioprine": [
+    "TPMT",
+    "ABCG2",
+    "RAC1",
+    "ABCC4",
+    "ABCC5"
+  ],
+  "azd-5438": [],
+  "azd4547": [
+    "FGFR1",
+    "AKT3",
+    "HRAS",
+    "AKT1",
+    "FGFR3",
+    "FGFR2"
+  ],
+  "azd8055": [],
+  "b675700.cdx": [],
+  "bay 11-7821": [],
+  "betamethasone": [
+    "AR",
+    "ACHE",
+    "NFE2L2",
+    "PTGER4",
+    "IGF2",
+    "PRL"
+  ],
+  "bi 2536": [],
+  "bi-2536": [],
+  "bibr1532": [],
+  "bibu 1361 dihydrochloride": [],
+  "bms-387032": [],
+  "bms-536924": [],
+  "bms-754807": []
+}

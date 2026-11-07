@@ -1,0 +1,61 @@
+drug_name,is_icb_sensitizer,moa_class,primary_targets,a375_replicates
+cgp-60474,1,CDK inhibitor (tool compound),CDK1;CDK2;CDK4;CDK9,22
+pd-0325901,1,MEK1/2 inhibitor (mirdametinib),MAP2K1;MAP2K2,29
+mitoxantrone,1,Topoisomerase II inhibitor,TOP2A;TOP2B;POLK;ATAD5,13
+withaferin-a,1,Vimentin / IKKβ inhibitor (natural product),VIM;IKBKB,7
+azd-8330,1,MEK1/2 inhibitor,MAP2K1;MAP2K2,5
+as-605240,1,PI3Kγ inhibitor (tool compound),PIK3CG,6
+belinostat,1,Pan-HDAC inhibitor,HDAC1;HDAC2;HDAC3;HDAC6,6
+azd-7762,1,CHK1/2 inhibitor,CHEK1;CHEK2,6
+selumetinib,1,MEK1/2 inhibitor,MAP2K1;MAP2K2;ATM;GNAQ,4
+dabrafenib,1,BRAF V600E inhibitor,BRAF;RAF1;HLA-DRB1;RIPK3,6
+dinaciclib,1,CDK1/2/5/9 inhibitor,CDK1;CDK2;CDK5;CDK9,5
+trametinib,1,MEK1/2 inhibitor,MAP2K1;MAP2K2;ATM;FLT3,4
+plx-4720,1,BRAF V600E inhibitor (tool compound),BRAF,5
+sb590885,1,BRAF inhibitor (tool compound),BRAF,6
+gsk-1059615,1,PI3K/mTOR inhibitor,PIK3CA;PIK3CB;PIK3CD;PIK3CG,22
+dovitinib,1,Multi-RTK (FGFR/VEGFR/PDGFR) inhibitor,FGFR1;FGFR3;KDR;PDGFRB,4
+pd-184352,1,MEK1/2 inhibitor (CI-1040),MAP2K1;MAP2K2,6
+sunitinib,1,Multi-RTK (VEGFR/PDGFR/KIT/CSF1R) inhibitor,KDR;PDGFRB;KIT;FLT3,6
+pracinostat,1,Pan-HDAC inhibitor,HDAC1;HDAC2;HDAC3,6
+pha-793887,1,CDK2/4/5/7/9 inhibitor,CDK2;CDK4;CDK5;CDK7,5
+mocetinostat,1,Class I HDAC inhibitor,HDAC1;HDAC2;HDAC3;HDAC5,5
+foretinib,1,MET/VEGFR2/AXL inhibitor,MET;KDR;AXL;FLT3,4
+(e)-capsaicin,0,Non-Oncology Control (A375 L1000),Uncharacterized,2
+15-delta prostaglandin j2,0,Non-Oncology Control (A375 L1000),Uncharacterized,2
+"15-deoxy-?12,14-prostaglandin j2",0,Non-Oncology Control (A375 L1000),Uncharacterized,2
+16-hydroxytriptolide,0,Non-Oncology Control (A375 L1000),Uncharacterized,2
+7b-cis,0,Non-Oncology Control (A375 L1000),Uncharacterized,2
+a443654,0,Non-Oncology Control (A375 L1000),Uncharacterized,5
+a8674,0,Non-Oncology Control (A375 L1000),Uncharacterized,2
+abt-737,0,Non-Oncology Control (A375 L1000),Uncharacterized,2
+abt-751,0,Non-Oncology Control (A375 L1000),Uncharacterized,2
+ag 957,0,Non-Oncology Control (A375 L1000),Uncharacterized,2
+ag14361,0,Non-Oncology Control (A375 L1000),Uncharacterized,4
+akti-1/2,0,Non-Oncology Control (A375 L1000),Uncharacterized,2
+ala-ala-phe-cmk,0,Non-Oncology Control (A375 L1000),Uncharacterized,2
+am 281,0,Non-Oncology Control (A375 L1000),Uncharacterized,2
+amsacrine,0,Non-Oncology Control (A375 L1000),MTOR;ATAD5;CBX1,2
+amyleine hydrochloride,0,Non-Oncology Control (A375 L1000),Uncharacterized,2
+arachidonyl trifluoro-methyl ketone,0,Non-Oncology Control (A375 L1000),Uncharacterized,2
+arp 101,0,Non-Oncology Control (A375 L1000),Uncharacterized,3
+as605240,0,Non-Oncology Control (A375 L1000),Uncharacterized,2
+at-csc-18 brd-k01121114,0,Non-Oncology Control (A375 L1000),Uncharacterized,2
+at7867,0,Non-Oncology Control (A375 L1000),Uncharacterized,4
+az-628,0,Non-Oncology Control (A375 L1000),Uncharacterized,6
+az20,0,Non-Oncology Control (A375 L1000),Uncharacterized,3
+azacitidine,0,Non-Oncology Control (A375 L1000),FLT3;ATAD5;TET2,4
+azathioprine,0,Non-Oncology Control (A375 L1000),TPMT;ABCG2;RAC1,2
+azd-5438,0,Non-Oncology Control (A375 L1000),Uncharacterized,5
+azd4547,0,Non-Oncology Control (A375 L1000),FGFR1;AKT3;HRAS,2
+azd8055,0,Non-Oncology Control (A375 L1000),Uncharacterized,2
+b675700.cdx,0,Non-Oncology Control (A375 L1000),Uncharacterized,2
+bay 11-7821,0,Non-Oncology Control (A375 L1000),Uncharacterized,2
+betamethasone,0,Non-Oncology Control (A375 L1000),AR;ACHE;NFE2L2,2
+bi 2536,0,Non-Oncology Control (A375 L1000),Uncharacterized,2
+bi-2536,0,Non-Oncology Control (A375 L1000),Uncharacterized,9
+bibr1532,0,Non-Oncology Control (A375 L1000),Uncharacterized,2
+bibu 1361 dihydrochloride,0,Non-Oncology Control (A375 L1000),Uncharacterized,2
+bms-387032,0,Non-Oncology Control (A375 L1000),Uncharacterized,3
+bms-536924,0,Non-Oncology Control (A375 L1000),Uncharacterized,2
+bms-754807,0,Non-Oncology Control (A375 L1000),Uncharacterized,2

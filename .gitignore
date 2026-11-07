@@ -1,0 +1,30 @@
+# Environments & System Cache
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+.idea/
+.vscode/
+
+# Generated outputs
+figures/
+manuscript/
+results/
+
+# Large Raw Archives & Heavy Expression Matrices (>10 MB)
+data/raw_downloads/
+data/melanoma_sc_expr.csv
+data/melanoma_sc_raw_counts.csv
+data/visium_melanoma_expr.csv
+data/IMvigor210_Urothelial_ICB_expr.csv
+
+# Keep essential network priors, clinical labels, small signatures, and manifest
+!data/DATA_PROVENANCE_MANIFEST.json
+!data/human_regulon_network.csv
+!data/depmap_crispr_scores.csv
+!data/drug_clinical_gold_standard.csv
+!data/drug_targets_map.json
+!data/lincs_drug_signatures.csv
+!data/*_clinical.csv
+!data/*_meta.csv

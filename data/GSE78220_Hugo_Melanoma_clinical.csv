@@ -1,0 +1,27 @@
+patient_id,original_patient_id,cohort,cohort_desc,sample_treatment,OS_months,OS_event,Responder,ICB_non_responder,RECIST_response,TIDE_non_responder,Resistance_Phenotype_Score
+Pt1,Pt1,GSE78220_Hugo_Melanoma,"Melanoma (Anti-PD-1, Hugo Cell 2016)",Pre,19.94,1,0.0,1.0,Progressive Disease,1,1.0
+Pt10,Pt10,GSE78220_Hugo_Melanoma,"Melanoma (Anti-PD-1, Hugo Cell 2016)",Pre,12.71,0,0.0,1.0,Progressive Disease,1,1.0
+Pt12,Pt12,GSE78220_Hugo_Melanoma,"Melanoma (Anti-PD-1, Hugo Cell 2016)",Pre,10.74,1,0.0,1.0,Progressive Disease,1,1.0
+Pt13,Pt13,GSE78220_Hugo_Melanoma,"Melanoma (Anti-PD-1, Hugo Cell 2016)",Pre,30.12,0,1.0,0.0,Complete Response,1,0.0
+Pt14,Pt14,GSE78220_Hugo_Melanoma,"Melanoma (Anti-PD-1, Hugo Cell 2016)",Pre,1.77,0,0.0,1.0,Progressive Disease,1,1.0
+Pt15,Pt15,GSE78220_Hugo_Melanoma,"Melanoma (Anti-PD-1, Hugo Cell 2016)",Pre,32.19,1,1.0,0.0,Partial Response,0,0.0
+Pt19,Pt19,GSE78220_Hugo_Melanoma,"Melanoma (Anti-PD-1, Hugo Cell 2016)",Pre,34.82,0,1.0,0.0,Partial Response,1,0.0
+Pt2,Pt2,GSE78220_Hugo_Melanoma,"Melanoma (Anti-PD-1, Hugo Cell 2016)",Pre,30.45,0,1.0,0.0,Partial Response,0,0.0
+Pt20,Pt20,GSE78220_Hugo_Melanoma,"Melanoma (Anti-PD-1, Hugo Cell 2016)",Pre,11.07,1,0.0,1.0,Progressive Disease,1,1.0
+Pt22,Pt22,GSE78220_Hugo_Melanoma,"Melanoma (Anti-PD-1, Hugo Cell 2016)",Pre,5.98,1,0.0,1.0,Progressive Disease,1,1.0
+Pt23,Pt23,GSE78220_Hugo_Melanoma,"Melanoma (Anti-PD-1, Hugo Cell 2016)",Pre,3.38,1,0.0,1.0,Progressive Disease,1,1.0
+Pt25,Pt25,GSE78220_Hugo_Melanoma,"Melanoma (Anti-PD-1, Hugo Cell 2016)",Pre,8.61,1,0.0,1.0,Progressive Disease,1,1.0
+Pt27,Pt27,GSE78220_Hugo_Melanoma,"Melanoma (Anti-PD-1, Hugo Cell 2016)",Pre,18.0,0,1.0,0.0,Complete Response,0,0.0
+Pt28,Pt28,GSE78220_Hugo_Melanoma,"Melanoma (Anti-PD-1, Hugo Cell 2016)",Pre,14.42,1,1.0,0.0,Partial Response,0,0.0
+Pt29,Pt29,GSE78220_Hugo_Melanoma,"Melanoma (Anti-PD-1, Hugo Cell 2016)",Pre,8.84,1,0.0,1.0,Progressive Disease,0,1.0
+Pt31,Pt31,GSE78220_Hugo_Melanoma,"Melanoma (Anti-PD-1, Hugo Cell 2016)",Pre,23.13,0,0.0,1.0,Progressive Disease,1,1.0
+Pt32,Pt32,GSE78220_Hugo_Melanoma,"Melanoma (Anti-PD-1, Hugo Cell 2016)",Pre,5.62,1,0.0,1.0,Progressive Disease,1,1.0
+Pt35,Pt35,GSE78220_Hugo_Melanoma,"Melanoma (Anti-PD-1, Hugo Cell 2016)",Pre,14.03,0,1.0,0.0,Partial Response,1,0.0
+Pt37,Pt37,GSE78220_Hugo_Melanoma,"Melanoma (Anti-PD-1, Hugo Cell 2016)",Pre,11.96,0,1.0,0.0,Partial Response,0,0.0
+Pt38,Pt38,GSE78220_Hugo_Melanoma,"Melanoma (Anti-PD-1, Hugo Cell 2016)",Pre,14.72,0,1.0,0.0,Partial Response,1,0.0
+Pt4,Pt4,GSE78220_Hugo_Melanoma,"Melanoma (Anti-PD-1, Hugo Cell 2016)",Pre,31.14,0,1.0,0.0,Partial Response,0,0.0
+Pt5,Pt5,GSE78220_Hugo_Melanoma,"Melanoma (Anti-PD-1, Hugo Cell 2016)",Pre,14.42,0,1.0,0.0,Partial Response,1,0.0
+Pt6,Pt6,GSE78220_Hugo_Melanoma,"Melanoma (Anti-PD-1, Hugo Cell 2016)",Pre,28.98,0,1.0,0.0,Partial Response,0,0.0
+Pt7,Pt7,GSE78220_Hugo_Melanoma,"Melanoma (Anti-PD-1, Hugo Cell 2016)",Pre,21.75,1,0.0,1.0,Progressive Disease,1,1.0
+Pt8,Pt8,GSE78220_Hugo_Melanoma,"Melanoma (Anti-PD-1, Hugo Cell 2016)",Pre,,0,1.0,0.0,Complete Response,1,0.0
+Pt9,Pt9,GSE78220_Hugo_Melanoma,"Melanoma (Anti-PD-1, Hugo Cell 2016)",Pre,34.63,0,1.0,0.0,Complete Response,1,0.0
